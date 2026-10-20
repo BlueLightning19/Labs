@@ -35,7 +35,7 @@ regular asset and legacy system reviews.
 
 ## Deliverable
 
-[View the completed security audit](botium-toys-security-audit.pdf)
+[View the completed security audit](botium-toys-security-audit.pdf.pdf)
 
 ## Skills Demonstrated
 
