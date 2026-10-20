@@ -1,7 +1,7 @@
 # Labs
 ## Security Audits
 
-### [Botium Toys Security Audit](security-audits/botium-toys/)
+### [Botium Toys Security Audit](1.security-audits/botium-toys/)
 
 A simulated internal security audit evaluating security
 controls and compliance practices. Includes a completed
